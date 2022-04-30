@@ -1,0 +1,7 @@
+td, th {
+	border: 1pt solid white;
+}
+
+.region-input {
+	padding: 10px;
+}
